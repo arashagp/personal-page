@@ -42,6 +42,7 @@ body {
 .navbar-toggler {
     outline: none !important;
 }
+
 /* --------------- */
 /* BANNER SECTION */
 /* ------------- */
@@ -209,20 +210,20 @@ body {
     color: #fff;
 }
 
-.footer-img{
+.footer-img {
     width: 100%;
 }
 
-.footer-box{
+.footer-box {
     padding: 20px;
 }
 
-.footer-box img{
+.footer-box img {
     width: 120px;
     margin-bottom: 20px;
 }
 
-.footer-box .fa-solid{
+.footer-box .fa-solid {
     margin-right: 8px;
     font-size: 25px;
     height: 40px;
@@ -233,7 +234,7 @@ body {
     /* background-image: linear-gradient(to right, #a517ba, #5f1782); */
 }
 
-.footer-box .form-controle{
+.footer-box .form-controle {
     box-shadow: none !important;
     border: none;
     border-radius: 10px;
@@ -242,20 +243,20 @@ body {
     padding: 5px;
 }
 
-.footer-box .btn-primary{
+.footer-box .btn-primary {
     box-shadow: none !important;
     border: none;
     border-radius: 10px;
     margin-left: 10px;
     font-size: 1.2rem;
-background-image: linear-gradient(to right, #831494, #43105c);
+    background-image: linear-gradient(to right, #831494, #43105c);
 }
 
-hr{
+hr {
     background-color: #fff;
 }
 
-.copyright{
+.copyright {
     margin-bottom: 0;
     padding-bottom: 20px;
     text-align: center;
